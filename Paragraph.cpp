@@ -1,7 +1,7 @@
 #include <iostream>
 
-#include "Paragraph.h"
-#include "Macro.h"
+#include "Paragraph.hpp"
+#include "Macro.hpp"
 
 using namespace std;
 

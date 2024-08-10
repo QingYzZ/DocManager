@@ -3,7 +3,7 @@
 
 #include <vector>
 #include <string>
-#include "Paragraph.h"
+#include "Paragraph.hpp"
 
 using namespace std;
 

@@ -1,4 +1,4 @@
-#include "document.h"
+#include "Document.hpp"
 
 #define PROMPT 'DOC>>'
 #define MAX_LINE_LEN 100
